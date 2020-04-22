@@ -1,7 +1,7 @@
 # AED
 Usuario
 `-- Repositorio público personal para la asignatura
- `-- readme.md // Front page del usuario
+ `-- readme.md // 
 • Algoritmos y Estructuras de Datos
 • Curso: K1051
 • Año de cursada: 2020
