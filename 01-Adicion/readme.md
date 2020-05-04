@@ -1,7 +1,9 @@
 # 01-Adicion
 ## Etapa #1: Análisis del problema:
-### ◦ Transcripción del problema.
-◦ Refinamiento del problema e Hipótesis de trabajo.
+### Transcripción del problema:
+• Mostrar la suma de 2 enteros, previamente ingresados por el usuario.
+### Refinamiento del problema e Hipótesis de trabajo:
+
 ◦ Modelo IPO.
 • Etapa #2 Diseño de la Solución:
 ◦ Léxico del Algoritmo.
