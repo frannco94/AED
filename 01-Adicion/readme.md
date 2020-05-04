@@ -5,8 +5,7 @@
 ### Refinamiento del problema e Hipótesis de trabajo:
 Refinamiento del problema: Realizar un programa que sea capaz de mostrar la suma de 2 numeros enteros ingresados por el usuario.
 Hipotesis: 
-- Valido para datos tipo 'int'
-
+- Valido solo para datos tipo 'int'.
 ### Modelo IPO.
 • Etapa #2 Diseño de la Solución:
 ◦ Léxico del Algoritmo.
