@@ -16,6 +16,8 @@ En nuestro caso seran: a ; b ; suma ϵ ℤ
 
 ### Representación visual
 
+![Diagrama en blanco](https://user-images.githubusercontent.com/63458655/80983127-99d25a80-8e02-11ea-8156-da7b2738fac2.png)
+
 ### Representación textual
 
 ``` #include <iostream>
