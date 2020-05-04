@@ -13,5 +13,20 @@ Hipotesis:
 ### Léxico del Algoritmo:
 -El léxico es un conjunto de símbolos que se pueden usar en un lenguaje.
 En nuestro caso seran: a ; b ; suma ϵ ℤ
-▪ Representación visual.
-▪ Representación textual.
+
+### Representación visual
+
+### Representación textual
+>#include <iostream>
+int main (){
+    int a,b,suma;
+    std::cout << "Ingrese un numero entero\n";
+    std::cin >> a;
+    std::cout << "Ha ingresado el numero " << a << "\n"; 
+    std::cout << "Ingrese un numero entero\n";
+    std::cin >> b;
+    std::cout << "Ha ingresado el numero " << b <<"\n";
+    suma=a+b ;
+    std::cout << "La suma es " << suma;
+}
+
