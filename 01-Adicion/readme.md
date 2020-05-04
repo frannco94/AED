@@ -9,9 +9,9 @@ Hipotesis:
 ### Modelo IPO.
 ![Modelo IPO](https://user-images.githubusercontent.com/63458655/80981129-e8cac080-8dff-11ea-8218-7bdc72f66dc1.jpg)
 
-• Etapa #2 Diseño de la Solución:
-◦ Léxico del Algoritmo.
-◦ Representación del Algoritmo 1
-:
+## Etapa #2 Diseño de la Solución:
+### Léxico del Algoritmo:
+-El léxico es un conjunto de símbolos que se pueden usar en un lenguaje.
+En nuestro caso seran: a ; b ; suma ϵ ℤ
 ▪ Representación visual.
 ▪ Representación textual.
