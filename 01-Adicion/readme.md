@@ -3,6 +3,7 @@
 ### Transcripción del problema:
 • Mostrar la suma de 2 enteros, previamente ingresados por el usuario.
 ### Refinamiento del problema e Hipótesis de trabajo:
+Refinamiento del problema: Realizar un programa que sea capaz de mostrar la suma de 2 numeros enteros ingresados por el usuario.
 
 ◦ Modelo IPO.
 • Etapa #2 Diseño de la Solución:
