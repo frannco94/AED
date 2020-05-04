@@ -29,5 +29,5 @@ int main (){
     std::cout << "Ha ingresado el numero " << b <<"\n";
     suma=a+b ;
     std::cout << "La suma es " << suma;
-} ```
+}
 
